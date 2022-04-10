@@ -2,6 +2,9 @@ import os
 from flask import Flask, session, redirect, request, render_template
 from h11 import CLIENT
 from requests_oauthlib import OAuth2Session
+from selenium import webdriver
+from urllib.parse import urlparse
+from urllib.parse import parse_qs
 app = Flask(__name__)
 
 CLIENT_ID = os.getenv('NOTION_CLENT_ID')
@@ -18,14 +21,8 @@ def hello_world():
 
 @app.route('/notion-auth')
 def notion_auth():
-   notion = OAuth2Session(CLIENT_ID, redirect_uri=REDIRECT_URI)
-   token = notion.fetch_token(
-        TOKEN_URL,
-        client_secret = CLIENT_SECRET,
-        authorization_response = request.url,
-   )
-   session['user_token'] = token
-   return 'Thanks for granting us authorization.'
+   return render_template('dashboard.html')
+
 
 @app.route('/privacy-policy')
 def privacy_policy():
