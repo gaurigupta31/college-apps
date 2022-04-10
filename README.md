@@ -1,5 +1,14 @@
 # college-apps
 
+![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=F1F1F1)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F1F1F1)
+![GitHub](https://img.shields.io/badge/-Github-333333?style=flat&logo=github&logoColor=F1F1F1)
+![CockroachDB](https://img.shields.io/badge/-CockroachDB-333333?style=flat&logo=cockroach&logoColor=F1F1F1)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=F1F1F1)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=F1F1F1)
+![Glitch](https://img.shields.io/badge/-Glitch-333333?style=flat&logo=glitch&logoColor=F1F1F1)
+
+
 ## Introduction and Inspiration
 
 When we think about graduate school admissions, here are some things that come to mind: grades, test scores, statement of purpose, letter of recommendations, deadlines, and fees. Keeping track of all this during the application process can be pretty overwhelming, especially when you're applying to multiple universities. 
@@ -12,8 +21,6 @@ All you have to do is sync your Notion workspace, enter some details about the c
 Head over to the website and sign up as a new user. This will prompt you to sign up with your email and create a password. Please note, we don't store your password. But more about this later. Once you're in, you will be able to access the dashboard. Here you get to sync your Notion workspace and grant access to our Notion integration. Now, you can enter some details about the program you're considering applying to. We require the link to the program's webpage. Once this has been added, add some more information like - Course name, Track (if any), and whether you're an Internation or Domestic student. This will help us provide accurate and relevant information for you. We don't store any of this information, we only use it to parse the website at our end. When you hit "Add to Notion" you should see relevant information related to this program created in a page in a database in your Notion workspace!
 
 ## Tech Stack + Tools Used
-
-We made use of several technologies to come up with the final product. 
 
 1. Project Management + Ideation - Notion, Figma (FigJam)
 2. Design - Figma 
