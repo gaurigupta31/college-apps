@@ -21,7 +21,8 @@ def hello_world():
 
 @app.route('/notion-auth')
 def notion_auth():
-   return render_template('dashboard.html')
+   driver = webdriver.Chrome()
+   return driver.current_url
 
 
 @app.route('/privacy-policy')
