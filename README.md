@@ -1,12 +1,13 @@
 # college-apps
 
-![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=notion&logoColor=F1F1F1)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=F1F1F1)
-![GitHub](https://img.shields.io/badge/-Github-333333?style=flat&logo=github&logoColor=F1F1F1)
-![CockroachDB](https://img.shields.io/badge/-CockroachDB-333333?style=flat&logo=cockroach&logoColor=F1F1F1)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=F1F1F1)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask&logoColor=F1F1F1)
-![Glitch](https://img.shields.io/badge/-Glitch-333333?style=flat&logo=glitch&logoColor=F1F1F1)
+![Python](https://img.shields.io/badge/-Python-3c096c?style=flat&logo=python&logoColor=b7a57a)
+![Flask](https://img.shields.io/badge/-Flask-4B0B86?style=flat&logo=flask&logoColor=b7a57a)
+![CockroachDB](https://img.shields.io/badge/-CockroachDB-5a189a?style=flat&logo=cockroach&logoColor=b7a57a)
+![Notion](https://img.shields.io/badge/-Notion-7611D4?style=flat&logo=notion&logoColor=CCCCCC)
+![Figma](https://img.shields.io/badge/-Figma-6925A4?style=flat&logo=figma&logoColor=888888)
+![Glitch](https://img.shields.io/badge/-Glitch-9d4edd?style=flat&logo=glitch&logoColor=303030)
+![GitHub](https://img.shields.io/badge/-Github-c77dff?style=flat&logo=github&logoColor=010101)
+
 
 
 ## Introduction and Inspiration
